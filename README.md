@@ -64,8 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viraj-24&theme=github_dark" />
 </p>
 
 
