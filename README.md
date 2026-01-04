@@ -49,20 +49,33 @@
 - YouTube API based search & play  
 - Authentication enabled  
 
-🔹 **Automation Projects**
-- WhatsApp Automation using **n8n**
-- Automated message handling & workflow execution
-- Integrated with APIs and external services
+🔹 **WhatsApp PDF Summarizer (n8n Automation)**
+- Built an automation workflow using **n8n** that enables users to send PDF documents via **WhatsApp** and receive an **AI-generated summary**.
+- Integrated **Twilio WhatsApp API** to receive messages and handle media attachments.
+- Automatically downloads the PDF, extracts text content, and processes it using **OpenAI** for summarization.
+- Sends the summarized response back to the user on WhatsApp in real time.
+- Implemented secure credential handling and conditional logic for media detection.
+- Demonstrates real-world automation using **APIs, AI, and workflow orchestration**.
 
 👉 *Check repositories for source code*
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=tokyonight" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=dark&cache_seconds=86400"
+    alt="Viraj GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=dark&cache_seconds=86400"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
+
 
 
 ---
