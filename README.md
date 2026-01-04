@@ -45,9 +45,14 @@
 - Firebase Realtime Database  
 - Booking & ride history  
 
-🔹 **Music Player App**
-- YouTube API based search & play  
-- Authentication enabled  
+🔹 **Real-Time Chat Application (Spring Boot)**  
+- Developed a real-time chat application using **Spring Boot**
+- Implemented **WebSocket** for instant bidirectional communication
+- Designed RESTful backend architecture
+- Enabled real-time message delivery between multiple users
+- Followed clean controller–service structure
+- Project Repository: https://github.com/Viraj-24/Real-Time-Chat-Application
+ 
 
 🔹 **WhatsApp PDF Summarizer (n8n Automation)**
 - Built an automation workflow using **n8n** that enables users to send PDF documents via **WhatsApp** and receive an **AI-generated summary**.
