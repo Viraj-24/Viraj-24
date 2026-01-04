@@ -64,16 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=dark&cache_seconds=86400"
-    alt="Viraj GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=dark&cache_seconds=86400"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=github_dark" height="165" />
 </p>
 
 
