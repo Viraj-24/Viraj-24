@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Viraj Gowda</h1>
+<h3 align="center">CSE Student | Android & Java Developer | Web Enthusiast</h3>
 
-<!--
-**Viraj-24/Viraj-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Viraj-24&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Who Am I?
+- 🎓 Computer Science Engineering student
+- 📱 Android Developer (Java + Firebase)
+- 🌐 Web Developer (HTML, CSS, JS)
+- 🤖 Exploring **AI-based applications**
+- 🎯 Actively preparing for **placements & internships**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📱 App & Web
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📌 Featured Projects
+🔹 **Ride Share Android App**  
+- Rider–Passenger matching by destination  
+- Firebase Realtime Database  
+- Booking & ride history  
+
+🔹 **Music Player App**
+- YouTube API based search & play  
+- Authentication enabled  
+
+🔹 **AI Projects**
+- Melody-based Song Plagiarism Detection  
+- EdgeAI-Pi (Offline Smart Assistant – Concept)
+
+👉 *Check repositories for source code*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=github_dark" height="165"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: **vviraj24@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/viraj-r-gowda-9100a6260**
+- 🌐 Portfolio: *(https://react-portfolio-t8ra.onrender.com/)*
+
+---
+
+⭐ *Always learning. Always building.*
