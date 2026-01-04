@@ -29,10 +29,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Tools
+## ⚙️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ---
 
@@ -46,9 +49,10 @@
 - YouTube API based search & play  
 - Authentication enabled  
 
-🔹 **AI Projects**
-- Melody-based Song Plagiarism Detection  
-- EdgeAI-Pi (Offline Smart Assistant – Concept)
+🔹 **Automation Projects**
+- WhatsApp Automation using **n8n**
+- Automated message handling & workflow execution
+- Integrated with APIs and external services
 
 👉 *Check repositories for source code*
 
@@ -56,9 +60,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-24&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-24&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
 
 ---
 
